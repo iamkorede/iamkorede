@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Who I am
-I’m an aspiring backend developer and a Computer Science student who’s also self-taught. I love building dependable APIs, learning new backend patterns, and collaborating on projects that teach me something new. ✨🔥
+I’m an aspiring Backend developer and a Computer Science scientist who’s also self-taught. I love building dependable APIs, learning new backend patterns, and collaborating on projects that teach me something new. ✨🔥
 
 - Pronouns: He/him 👨‍💻  
 - Location: Ogun State, Nigeria 📍🇳🇬  
@@ -19,7 +19,7 @@ I’m an aspiring backend developer and a Computer Science student who’s also 
 
 ## 🛠️ Core skills
 - Languages & markup: HTML, CSS, JavaScript 🌐✨  
-- Backend: Node.js, Express ⚙️🧩  
+- Backend: Node.js, Express, MySql ⚙️🧩  
 - Frontend (familiar): React ⚛️🎨  
 - Focus: REST APIs, endpoint design, iterative debugging, and learning best practices for backend systems 🔍🧪
 
@@ -51,7 +51,7 @@ curl http://localhost:3000/api/profile
 
 ## 📫 Contact & socials
 - Email: ✉️ adekanbiakorede007@gmail.com  
-- LinkedIn: 🔗 Adekanbi Akorede (share your public profile URL and I'll add the direct link)  
+- Facebook: 🔗 Adekanbi Akorede  
 - GitHub: https://github.com/iamkorede 🧑‍💻
 
 ---
