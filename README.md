@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Akorede Adekanbi
+# Akorede Adekanbi
 
 ### Backend Software Engineer • Full-Stack Developer • Computer Science Student
 
@@ -29,17 +29,17 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Computer Science student and backend engineer passionate about building robust, scalable systems. I specialize in crafting clean architectures, RESTful APIs, and full-stack solutions that solve real-world problems.
 
-**📍 Location:** Ogun State, Nigeria  
-**🛠️ Focus:** System Architecture • API Design • Full-Stack Integration • Database Optimization  
-**💡 Philosophy:** Clean code, comprehensive testing, and excellent documentation
+**Location:** Ogun State, Nigeria  
+**Focus:** System Architecture • API Design • Full-Stack Integration • Database Optimization  
+**Philosophy:** Clean code, comprehensive testing, and excellent documentation
 
 ---
 
-## 🚀 Technical Arsenal
+## Technical Arsenal
 
 ### Backend & Languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -56,9 +56,9 @@ Computer Science student and backend engineer passionate about building robust, 
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🔧 Backend Systems & APIs
+### Backend Systems & APIs
 
 **[backend-wizards-profile-endpoint](https://github.com/iamkorede/backend-wizards-profile-endpoint)**  
 RESTful API delivering structured profile metadata with real-time external API integration  
@@ -72,7 +72,7 @@ Clean, lightweight API for persistent bookmark management using CRUD architectur
 Scalable backend handling user authentication, content feeds, and complex data modeling  
 `Node.js` · `Express` · `MongoDB`
 
-### 📚 Algorithms & System Design
+### Algorithms & System Design
 
 **[algorithm-solver](https://github.com/iamkorede/algorithm-solver)** — Optimized algorithmic solutions with proven time/space complexity
 
@@ -82,37 +82,37 @@ Scalable backend handling user authentication, content feeds, and complex data m
 
 ---
 
-## ✨ What Drives Me
+## What Drives Me
 
 ```
-⚡ Advanced MongoDB Aggregations & Query Performance Tuning
-🔐 Identity & Access Management (JWT, OAuth2, RBAC)
-💾 Caching Patterns & Redis-Powered Performance
-🏗️ Scalable Microservices & Pragmatic Architecture
-🚀 Building APIs That Scale
+Advanced MongoDB Aggregations & Query Performance Tuning
+Identity & Access Management (JWT, OAuth2, RBAC)
+Caching Patterns & Redis-Powered Performance
+Scalable Microservices & Pragmatic Architecture
+Building APIs That Scale
 ```
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm actively open to:
-- 🔗 Technical collaborations and open-source contributions
-- 👥 Team projects and hackathons
-- 💼 Software engineering roles and opportunities
-- 🎯 API-driven systems and full-stack challenges
+- Technical collaborations and open-source contributions
+- Team projects and hackathons
+- Software engineering roles and opportunities
+- API-driven systems and full-stack challenges
 
 ### Ways to Connect
 
-**📝 Found an Issue?** — Check out [active repositories](https://github.com/iamkorede?tab=repositories) for open issues and feature requests  
-**🔀 Have a Contribution?** — Pull requests are always welcome!  
-**💬 Want to Chat?** — Reach out via [email](mailto:adekanbiakorede007@gmail.com) for project ideas, technical discussions, or freelance work
+**Found an Issue?** — Check out [active repositories](https://github.com/iamkorede?tab=repositories) for open issues and feature requests  
+**Have a Contribution?** — Pull requests are always welcome!  
+**Want to Chat?** — Reach out via [email](mailto:adekanbiakorede007@gmail.com) for project ideas, technical discussions, or freelance work
 
 ---
 
 <div align="center">
 
-**⭐ If you find something interesting, don't forget to leave a star!**
+**If you find something interesting, don't forget to leave a star!**
 
 [Visit My Repositories](https://github.com/iamkorede?tab=repositories) | [Get In Touch](mailto:adekanbiakorede007@gmail.com)
 
