@@ -2,7 +2,7 @@
 
 # Akorede Adekanbi
 
-### Backend Software Engineer • Full-Stack Developer • Computer Science Student
+### Backend Software Engineer • Computer Science Student
 
 *Crafting scalable server-side systems, elegant APIs, and seamless full-stack experiences.*
 
