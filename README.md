@@ -2,7 +2,7 @@
 
 # Akorede Adekanbi
 
-### Backend Software Engineer • Computer Science Student
+### Backend Software Engineer • Computer Scientist 
 
 *Crafting scalable server-side systems, elegant APIs, and seamless full-stack experiences.*
 
@@ -31,7 +31,7 @@
 
 ## About Me
 
-Computer Science student and backend engineer passionate about building robust, scalable systems. I specialize in crafting clean architectures, RESTful APIs, and full-stack solutions that solve real-world problems.
+Computer Scientist and backend engineer passionate about building robust, scalable systems. I specialize in crafting clean architectures, RESTful APIs, and full-stack solutions that solve real-world problems.
 
 **Location:** Ogun State, Nigeria  
 **Focus:** System Architecture • API Design • Full-Stack Integration • Database Optimization  
