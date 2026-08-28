@@ -100,7 +100,7 @@ I'm actively open to:
 - Technical collaborations and open-source contributions
 - Team projects and hackathons
 - Software engineering roles and opportunities
-- API-driven systems and full-stack challenges
+- API-driven systems and full-stack challenges.
 
 ### Ways to Connect
 
